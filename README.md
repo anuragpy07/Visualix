@@ -1,8 +1,8 @@
 # Visualix - Algorithm Visualizer
 
 
-View Algorithm Visualizer
-
+View Visualix - Algorithm Visualizer
+https://anuragpy07.github.io/Visualix/
 
 ### TODO
 
