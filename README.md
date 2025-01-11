@@ -2,7 +2,7 @@
 
 
 View Visualix - Algorithm Visualizer
-https://anuragpy07.github.io/Visualix/
+https://visualix-seven.vercel.app/
 
 ### TODO
 
