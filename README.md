@@ -4,11 +4,6 @@
 View Visualix - Algorithm Visualizer
 https://visualix-seven.vercel.app/
 
-### TODO
-
-- [ ] Add instructions in all visualizer to make it more user friendly.
-- [ ] Add graph / sorting algorithm description.
-
 <h3>Trie</h3>
 Insert / Delete Word.
 <div>
